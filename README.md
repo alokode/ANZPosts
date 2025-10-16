@@ -33,5 +33,5 @@ It's a sample SwiftUI app with Networklayer. The basic features are  list posts,
     * Unit tests for NetworkService, PostRepository, and PostListViewModel using XCTest.
 
 # Possible future improvements
- -> Can use caching mechanism to avoid fetching api everytime
- -> Can use pagination to avoid loading a huge bulk of data at initial time.
+ * -> Can use caching mechanism to avoid fetching api everytime
+ * -> Can use pagination to avoid loading a huge bulk of data at initial time.
